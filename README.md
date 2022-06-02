@@ -1,3 +1,8 @@
+# WARNING
+this is not my project, it's just a copied template of [this repo](https://github.com/jstrieb/github-stats)
+
+
+
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
 <!--
